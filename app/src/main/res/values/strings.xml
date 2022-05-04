@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test upload</string>
+    <string name="background">Background</string>
+    <string name="txt_desc">Deskripsi</string>
+    <string name="browse">Browse</string>
+    <string name="upload">Upload</string>
+    <string name="desc">Deskripsi</string>
+    <string name="loc">Lokasi</string>
+    <string name="ust">Pemateri</string>
+    <string name="masjid">Masjid</string>
+    <string name="materi">Materi</string>
+</resources>
